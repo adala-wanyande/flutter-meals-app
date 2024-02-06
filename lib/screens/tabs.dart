@@ -7,6 +7,7 @@ import 'package:flutter_meals_app/screens/filters.dart';
 import 'package:flutter_meals_app/screens/meals.dart';
 import 'package:flutter_meals_app/widgets/main_drawer.dart';
 import 'package:flutter_meals_app/providers/favorites_provider.dart';
+import 'package:flutter_meals_app/providers/filters_provider.dart';
 
 const kInitialFilters = {
   Filter.glutenFree: false,
