@@ -2,4 +2,4 @@
 
 ## App Demo
 
-![Mockups](assets/video/demo.mp4)
+![Demo](assets/video/demo.gif)
