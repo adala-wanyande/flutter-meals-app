@@ -2,6 +2,12 @@
 
 Welcome to the Meals App, a feature-rich mobile application designed to cater to the diverse culinary preferences and dietary needs of users around the globe. Built with Flutter, this app offers an engaging user experience, showcasing an array of meals from various cuisines. Whether you're looking for your next favorite dish or have specific dietary restrictions, the Meals App provides a tailored browsing experience to suit your needs.
 
+## Demo
+
+Open the deployed demo [here](https://flutter-meals-app-adala.netlify.app/) on mobile for the best experience.
+
+Experience the Meals App in action. Browse through our demo to get a glimpse of the user-friendly interface, smooth navigation, and how you can interact with different features of the app.
+
 ## Overview
 
 The Meals App leverages Flutter to deliver a seamless and interactive user experience, incorporating animations, state management via Riverpod and providers, and robust multi-tab and multi-screen navigation capabilities. Users can discover meals from an extensive selection of cuisines, save their favorite dishes for easy access, and filter options based on dietary restrictions such as lactose intolerance, vegan, vegetarian, and gluten-free diets. This app is your ultimate companion for exploring and enjoying diverse meals tailored to your preferences and needs.
@@ -28,12 +34,6 @@ Multi-Tab and Multi-Screen Navigation
 ![Mockups](assets/images/mockups.png)
 
 Dive into the visual design of the Meals App with our detailed mockups. See how the app's design caters to an intuitive and engaging user experience, from browsing meals to filtering your dietary preferences.
-
-## Demo
-
-![Demo](assets/video/demo.gif)
-
-Experience the Meals App in action. Browse through our demo to get a glimpse of the user-friendly interface, smooth navigation, and how you can interact with different features of the app.
 
 ## Credits
 
