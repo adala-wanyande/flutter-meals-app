@@ -11,17 +11,17 @@ The Meals App leverages Flutter to deliver a seamless and interactive user exper
 ### Diverse Meal Selection
 - **Efficient Data Handling:** Uses modern Flutter techniques to fetch a wide variety of meal options from different cuisines. Meals are loaded as you scroll, making the app fast and responsive even on older devices.
 Favorites
-**Seamless Favorites Management:** With the help of Riverpod and Flutter's built-in storage, the app remembers your favorite meals, keeping them just a tap away, session after session.
+- **Seamless Favorites Management:** With the help of Riverpod and Flutter's built-in storage, the app remembers your favorite meals, keeping them just a tap away, session after session.
 
 ### Dietary Filters
-**Flexible Meal Filtering:** Whether you're vegan, gluten-free, or have other dietary needs, our app makes it easy to find meals that suit you. Simply select your dietary preferences, and the app will do the rest, instantly updating your meal options.
+- **Flexible Meal Filtering:** Whether you're vegan, gluten-free, or have other dietary needs, our app makes it easy to find meals that suit you. Simply select your dietary preferences, and the app will do the rest, instantly updating your meal options.
 Engaging Animations
-**Smooth User Experience:** The app uses Flutter's animation toolkit to provide a visually engaging experience. From browsing meals to adding favorites, every interaction feels lively and interactive.
+- **Smooth User Experience:** The app uses Flutter's animation toolkit to provide a visually engaging experience. From browsing meals to adding favorites, every interaction feels lively and interactive.
 
 ### State Management
-**Reliable and Responsive:** By leveraging Riverpod, the app efficiently manages its state, ensuring that the user interface is always up to date. Whether it's updating your favorites or applying filters, changes reflect immediately across the app.
+- **Reliable and Responsive:** By leveraging Riverpod, the app efficiently manages its state, ensuring that the user interface is always up to date. Whether it's updating your favorites or applying filters, changes reflect immediately across the app.
 Multi-Tab and Multi-Screen Navigation
-**Intuitive Navigation:** Explore the app with ease thanks to a well-organized multi-tab layout that allows for smooth switching between different sections. The app also remembers your last visited page, so you can pick up right where you left off.
+- **Intuitive Navigation:** Explore the app with ease thanks to a well-organized multi-tab layout that allows for smooth switching between different sections. The app also remembers your last visited page, so you can pick up right where you left off.
 
 ## Mockups
 
